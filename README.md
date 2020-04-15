@@ -6,4 +6,6 @@ This repository includes the example workspace folder for the Medium article abo
 Note: Files in the JLinkRTT folder are copyright Segger Microcontroller Systems GmbH. 
 You can learn more at www.segger.com
 
-There is also an accompanying video on YouTube that steps through the development, upload, and debuging workflow at .
+There is also an accompanying video on YouTube that steps through the development, upload, and debuging workflow at https://www.youtube.com/watch?v=4xxy_8vBCfs.
+
+The article on Medium is found at https://medium.com/@Greg_LooUQ/developing-embedded-applications-with-vs-code-arduino-68eaa232643.
